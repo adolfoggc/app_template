@@ -20,6 +20,7 @@ Project is created with:
 * Devise 4.7.3 (Includes Lockbox lockbox 0.6.5 and Blind Index blind_index 2.2.0)
 
 Devise branch contains the devise gem for authentication and uses de model attribute `profile` for different kinds of `member` 
+
 ## Setup
 You will need to include an yml file for your environmental variables. Create a file on `/config/application.yml`, copy this sample and change the variable default values as you desire 
 
